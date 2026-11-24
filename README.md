@@ -50,12 +50,6 @@ Não é necessário instalar nada.
 - **Imagens:** troque os arquivos dentro de `assets/` mantendo os mesmos nomes, ou atualize os caminhos no HTML.
 - **Serviços:** para adicionar um card, copie um bloco `<div class="card">` dentro de `.divCards`.
 
-## Melhorias futuras
-
-- Fazer os links do menu rolarem até as seções (âncoras com `id`)
-- Adicionar textos alternativos (`alt`) nas imagens da galeria e dos cards
-- Criar um formulário ou link real de contato
-- Adicionar um rodapé
 
 ## Autor
 
